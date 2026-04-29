@@ -82,9 +82,11 @@ justin-bieber-quiz/
 
 ## 📱 Telas
 
-![Tela Inicial](jb_quiz/assets/telas/1.png)
-![Quiz](jb_quiz/assets/telas/2.png)
-![Respostas](jb_quiz/assets/telas/3.png)
+<p align="center">
+  <img src="jb_quiz/assets/telas/1.png" width="200">
+  <img src="jb_quiz/assets/telas/2.png" width="200">
+  <img src="jb_quiz/assets/telas/3.png" width="200">
+</p>
 
 ---
 
