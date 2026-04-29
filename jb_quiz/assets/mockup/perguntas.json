@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "ilustracao": "assets/imagens/1.jpg",
+    "pergunta": "Em que ano Justin Bieber foi descoberto no YouTube por Scooter Braun?",
+    "respostas": ["2006", "2007", "2008", "2009"],
+    "correta": 3
+  },
+  {
+    "id": 2,
+    "ilustracao": "assets/imagens/2.jpg",
+    "pergunta": "Qual é o nome completo de Justin Bieber?",
+    "respostas": ["Justin Drew Bieber", "Justin Drake Bieber", "Justin Daniel Bieber", "Justin Dylan Bieber"],
+    "correta": 1
+  },
+  {
+    "id": 3,
+    "ilustracao": "assets/imagens/3.jpg",
+    "pergunta": "Qual foi o primeiro grande sucesso de Justin Bieber?",
+    "respostas": ["Sorry", "Baby", "Love Yourself", "Peaches"],
+    "correta": 2
+  },
+  {
+    "id": 4,
+    "ilustracao": "assets/imagens/4.jpg",
+    "pergunta": "Em qual país Justin Bieber nasceu?",
+    "respostas": ["Estados Unidos", "Canadá", "Reino Unido", "Austrália"],
+    "correta": 2
+  },
+  {
+    "id": 5,
+    "ilustracao": "assets/imagens/5.jpg",
+    "pergunta": "Qual é o nome da esposa de Justin Bieber?",
+    "respostas": ["Selena Gomez", "Kendall Jenner", "Hailey Baldwin", "Gigi Hadid"],
+    "correta": 3
+  },
+  {
+    "id": 6,
+    "ilustracao": "assets/imagens/6.jpg",
+    "pergunta": "Qual álbum de Justin Bieber inclui a música 'Sorry'?",
+    "respostas": ["Purpose", "Believe", "Changes", "Justice"],
+    "correta": 1
+  },
+  {
+    "id": 7,
+    "ilustracao": "assets/imagens/7.jpg",
+    "pergunta": "Qual dessas músicas é uma parceria entre Justin Bieber e Ed Sheeran?",
+    "respostas": ["Stay", "I Don't Care", "Intentions", "Yummy"],
+    "correta": 2
+  },
+  {
+    "id": 8,
+    "ilustracao": "assets/imagens/8.jpg",
+    "pergunta": "Qual instrumento Justin Bieber aprendeu a tocar quando criança?",
+    "respostas": ["Guitarra", "Bateria", "Piano", "Violino"],
+    "correta": 2
+  },
+  {
+    "id": 9,
+    "ilustracao": "assets/imagens/9.jpg",
+    "pergunta": "Qual música de Justin Bieber tem o verso famoso 'Is it too late now to say sorry?'",
+    "respostas": ["Love Yourself", "Sorry", "What Do You Mean?", "Peaches"],
+    "correta": 2
+  },
+  {
+    "id": 10,
+    "ilustracao": "assets/imagens/10.jpg",
+    "pergunta": "Qual foi o nome da turnê mundial de Justin Bieber em 2016-2017?",
+    "respostas": ["Believe Tour", "Purpose World Tour", "Justice Tour", "My World Tour"],
+    "correta": 2
+  }
+]
